@@ -28,10 +28,10 @@
 
 #How to Use
 
--Enter an item name
+1.Enter an item name
 
--Add a category
+2.Add a category
 
--Click "Add Item" or press Enter
+3.Click "Add Item" or press Enter
 
--Click the delete button to remove items
+4.Click the delete button to remove items
